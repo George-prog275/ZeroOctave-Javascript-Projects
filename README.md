@@ -101,7 +101,7 @@ Happy coding.👍
 
 We would request you to go through the contributing guidelines throughly so that you know what you are doing.
 
-Little knowledge of Github would be benificial for you so that you know what you are doing.
+Little knowledge of Github would be beneficial for you so that you know what you are doing.
 
 **[How NOT to contribute to Open Source on GitHub](https://astrodevil.hashnode.dev/how-not-to-contribute-to-open-source-on-github-tips-for-beginners)**
 
@@ -158,7 +158,7 @@ git pull upstream main
 git checkout -b <your_branch_name>
 ```
 
-**8.** Perfom your desired changes to the code base.
+**8.** Perform your desired changes to the code base.
 
 **9.** Track your changes:heavy_check_mark: .
 
